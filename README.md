@@ -12,3 +12,5 @@ Accomplishments: We submitted on time. Website was nominated with my team (Miche
 What we learned: Planning and creating prototypes helps.
 <br>
 What's next for Instant Health: Get database and PHP to work. As we get private services, we would like to introduce SS # as a way for doctor offices to pull up basic patient information to register them instead of filling out forms.
+<br>
+<a href="https://yumichelle.github.io/instanthealth/Hackattack-Home.html">SEE WEBSITE</a>
